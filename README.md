@@ -2,14 +2,16 @@
 
 <img src="docs/images/flag-gb.svg" height="14" alt="EN"> **[English](#english)** &nbsp;·&nbsp; <img src="docs/images/flag-fr.svg" height="14" alt="FR"> **[Français](#francais)**
 
-<img src="docs/images/flag-gb.svg" height="12" alt="EN"> StargateTC 2.0 running again on today's Steam Half-Life, with bots that play the objectives.
+<img src="docs/images/flag-gb.svg" height="12" alt="EN"> StargateTC 2.0 running again on today's Steam Half-Life, with bots that play the objectives. Part of **[Stargate Redial](https://github.com/Stargate-Redial)**.
 
-<img src="docs/images/flag-fr.svg" height="12" alt="FR"> StargateTC 2.0 qui retourne sur le Half-Life Steam d'aujourd'hui, avec des bots qui jouent les objectifs.
+<img src="docs/images/flag-fr.svg" height="12" alt="FR"> StargateTC 2.0 qui retourne sur le Half-Life Steam d'aujourd'hui, avec des bots qui jouent les objectifs. Fait partie de **[Stargate Redial](https://github.com/Stargate-Redial)**.
 
 | | |
 |---|---|
 | ![A bot running into an open stargate](docs/images/gate-travel.jpg) | ![Apophis coming out of the temple gate](docs/images/temple-gate.jpg) |
 | ![Bots at the DHD](docs/images/dhd.jpg) | ![Goa'uld fighting in the village](docs/images/village-fight.jpg) |
+
+**Discord:** [discord.com/invite/SgHPP4mZyB](https://discord.com/invite/SgHPP4mZyB) &nbsp;·&nbsp; **24/7 server:** `connect 92.222.243.147:27030`
 
 ---
 
@@ -136,6 +138,18 @@ Les bots ajoutés à chaque début de carte sont listés dans `stargatetc\addons
 - **Les bots restent immobiles sur une carte :** elle n'a pas de waypoints. Voir la liste des cartes dans [docs/DETAILS.md](docs/DETAILS.md#maps).
 
 ---
+
+## Stargate Redial
+
+Stargate mods brought back to life, with bots and a server running 24/7 · Les mods Stargate qui reprennent vie, avec des bots et un serveur 24h/24:
+
+| Project | Game | 24/7 server |
+|---|---|---|
+| **StargateTC: Redial** | StargateTC 2.0 (Half-Life) | `connect 92.222.243.147:27030` |
+| [StargateTC 2: Redial](https://github.com/Stargate-Redial/stargatetc2-redial) | StargateTC 2 (Source SDK Base 2006) | `connect 92.222.243.147:27032` |
+| [Stargate TLS: Redial](https://github.com/Stargate-Redial/stargatetls-redial) | Stargate: The Last Stand (Source SDK Base 2007) | `connect 92.222.243.147:27031` |
+
+Discord: [discord.com/invite/SgHPP4mZyB](https://discord.com/invite/SgHPP4mZyB)
 
 ## Credits
 
